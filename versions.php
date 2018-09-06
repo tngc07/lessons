@@ -11,6 +11,7 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <p>hello world this is version number UNO</p>
+    <p>hello world this is version number DOS</p>
+    <p>Now we have this too!! </p>
 </body>
 </html>
