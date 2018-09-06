@@ -20,7 +20,5 @@
         <li>Four</li>
         <li>Five</li>
     </ul>
-
-    <img src="https://placeholder.pics/svg/300" alt="300x300 placeholder">
 </body>
 </html>
